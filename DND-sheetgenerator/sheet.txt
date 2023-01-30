@@ -1,0 +1,23 @@
+You are a male Human.
+Your height is 62 inches.
+Your weight is 140 pounds.
+Your class is Sorcerer.
+Your class's archetype is Storm Origin Sorcerer.
+Your background is Noble.
+
+Your stats:
+Strength: 14 (+2)
+Dexterity: 18 (+4)
+Constitution: 9 (-1)
+Intelligence: 14 (+2)
+Wisdom: 17 (+3)
+Charisma: 13 (+1)
+Your armor class: 14
+
+You personality trait: I do not like to get my hands dirty, and I will not be caught dead in unsuitable accommodations.
+Your ideal: Family - Blood runs thicker than water. 
+Your bond: My house’s alliance with another noble family must be sustained at all costs.
+Your flaw: I hide a truly scandalous secret that could ruin my family forever.
+You speak Common, Hafling,
+Your starting gold: 25
+Your trinket: A dead sprite inside a clear glass bottle
